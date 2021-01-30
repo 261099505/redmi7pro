@@ -4,7 +4,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/21.1.26/miui_VIOLET_21.1.26_63cdc02729_10.0.zip
+  ROM_URL: https://61-133-64-4.ksyungslb.com/bigota.d.miui.com/21.1.26/miui_VIOLET_21.1.26_63cdc02729_10.0.zip?ksy_gslb_referer=https%3A%2F%2Fgithub.com%2FmooseIre%2Fupdate_miui_ota%2Fblob%2Fmaster%2FDevelop%2FRedmi%2520Note7%2520Pro.md
   ROM_NAME: MIUI
   BUILD_AB: true
   BUILD_AONLY: false
